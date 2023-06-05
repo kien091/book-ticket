@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\bin\Debug\Galaxy Cinema.exe.config
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\bin\Debug\Galaxy Cinema.exe
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\bin\Debug\Galaxy Cinema.pdb
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy Cinema.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy_Cinema.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy Cinema.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy Cinema.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy Cinema.exe
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy Cinema.pdb
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy_Cinema.Homepage.resources
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy_Cinema.UCFilm.resources
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy_Cinema.UCBookSeat.resources
+C:\Users\ASUS\source\repos\Galaxy Cinema\Galaxy Cinema\obj\Debug\Galaxy_Cinema.UCCombo.resources
